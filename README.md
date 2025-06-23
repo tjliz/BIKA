@@ -12,9 +12,7 @@ Material Design 3(Material You)<br>
 
 # 下载
     
-[[GitHub下载]](https://github.com/shizq123/BIKA/releases)
-[[AppCenter下载]](https://install.appcenter.ms/users/shizq123hh/apps/bika/distribution_groups/release)
-[[蓝奏云下载]](https://zquan.lanzoue.com/b00zguxje)
+[[GitHub下载]](https://github.com/tjliz/BIKA/releases)
 
 # 截图
 
